@@ -53,9 +53,28 @@ sub help {
 my $keywords = {
     "C" => [
         "if",
+        "else",
+        "switch",
+        "case",
+        "default",
         "while",
         "{",
-        "for"
+        "for",
+        "return",
+        "break",
+        "typdef",
+        "struct",
+        "const",
+        "int",
+        "char",
+        "double",
+        "float",
+        "int *",
+        "char *",
+        "double *",
+        "float *",
+        "static",
+        "extern",
         ]
 };
 
